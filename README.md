@@ -64,7 +64,6 @@ The analysis included:
 * Revenue by region
 * Monthly revenue
 * Revenue by customer
-* Top 3 and bottom 3 product categories
 * Top 5 customers by revenue
 
 ## 📈 Data Visualization
@@ -75,9 +74,8 @@ The visualizations include:
 
 * Revenue by Product Category
 * Revenue by Region
-* Monthly Revenue Trends
+* Monthly and Yearly Revenue Trends
 * Customer Revenue Analysis
-* Other relevant revenue comparisons
 
 ## 🔍 Key Insights
 
@@ -99,11 +97,7 @@ Retail-Business-Data-Analysis/
 ├── retail_business_analysis.ipynb
 ├── retail_data.csv
 ├── README.md
-└── visualizations/
-    ├── revenue_by_category.png
-    ├── revenue_by_region.png
-    └── monthly_revenue.png
-```
+└── visualizations
 
 ## 🚀 Conclusion
 
