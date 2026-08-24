@@ -89,17 +89,6 @@ The analysis was used to identify:
 
 > The specific findings are presented in the Jupyter Notebook and visualizations included in this repository.
 
-## 📁 Project Contents
-
-```text
-Retail-Business-Data-Analysis/
-│
-├── retail_business_analysis.ipynb
-├── retail_data.csv
-├── README.md
-└── visualizations
-
-## 🚀 Conclusion
 
 This project demonstrates the use of Python for basic data analytics, including data cleaning, numerical calculations, aggregation, statistical analysis, and data visualization.
 
